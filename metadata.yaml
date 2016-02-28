@@ -1,0 +1,31 @@
+_repo: Oden_6831
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6831'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 18th century'
+- !lcc 'PT'
+tableOfContents: "Abschied eines Freundes\r\nAn Herr Gleim\r\nAn den Herrn N**\r\n\
+  An seinen Bruder\r\nAuf eine vornehme Vermählung\r\nDer 24ste Jenner in Berlin\r\
+  \nDer Eintritt des 1752sten Jahres\r\nDer Eintritt des Jahres 1753 in Berlin\r\n\
+  Der Eintritt des Jahres 1754 in Berlin\r\nDer Eintritt des Jahres 1755 in Berlin\r\
+  \nDer Tod eines Freundes\r\nOde auf den Tod des Marschalls von Schwerin, an den\
+  \ H. von Kleist\r\nOrpheus"
+title: Oden
+url: http://www.gutenberg.org/ebooks/6831
